@@ -8,7 +8,7 @@
 
 
 
-# BLOG
+# Blog
 
 https://chihunmanse.github.io
 
